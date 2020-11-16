@@ -2,6 +2,9 @@
 I am Mohana Sundaram S
 I am part of Spider R&D Club of NITT
 I am currently pursuing Second year of my Chemical Engineering in National Institute of technology Tiruchirapalli
+#
+![Mohan's github stats](https://github-readme-stats.vercel.app/api?username=highonweb&show_icons=true&theme=dark)
+#
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning ... GOLANG
 - 👯 I’m looking to collaborate on Blockchain
@@ -19,5 +22,3 @@ I am currently pursuing Second year of my Chemical Engineering in National Insti
 #
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=highonweb&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-#
-![Mohan's github stats](https://github-readme-stats.vercel.app/api?username=highonweb&show_icons=true&theme=dark)
