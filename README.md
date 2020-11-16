@@ -1,21 +1,21 @@
 ### Hi there 👋
-
-Here are some ideas to get you started:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![](https://img.shields.io/static/v1?label=OS&message=linux)
+![](https://img.shields.io/static/v1?label=OS&message=linux)
+![](https://img.shields.io/static/v1?label=OS&message=linux)
+![](https://img.shields.io/static/v1?label=OS&message=linux)
 ![](https://img.shields.io/static/v1?label=OS&message=linux)
 
 <a href="https://github.com/highonweb">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=highonweb&theme=radical&count_private=true&show_icons=true" />
 </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+<!-- - 🔭 I’m currently working on ... -->
+- 🌱 I’m currently learning ... GOLANG
+- 👯 I’m looking to collaborate on Blockchain
+<!-- - 🤔 I’m looking for help with -->
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him/his
 
 
 <a href="https://github.com/highonweb">
