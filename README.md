@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**highonweb/highonweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
+https://img.shields.io/static/v1?label=OS&message=linux
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <a href="https://github.com/rt1301">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=highonweb&show_icons=true&count_private=true&theme=radical" alt="rt1301 github stats"/>
