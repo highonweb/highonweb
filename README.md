@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 Here are some ideas to get you started:
-https://img.shields.io/static/v1?label=OS&message=linux
+
+<img src="https://img.shields.io/static/v1?label=OS&message=linux" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
