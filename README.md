@@ -1,10 +1,13 @@
 ### Hi there 👋
+I am Mohana Sundaram S
+I am part of Spider R&D Club of NITT
+I am currently pursuing Second year of my Chemical Engineering in National Institute of technology Tiruchirapalli
+#
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=highonweb)
-![](https://img.shields.io/static/v1?label=OS&message=linux)
-![](https://img.shields.io/static/v1?label=OS&message=linux)
-![](https://img.shields.io/static/v1?label=OS&message=linux)
-![](https://img.shields.io/static/v1?label=OS&message=linux)
-![](https://img.shields.io/static/v1?label=OS&message=linux)
+![](https://img.shields.io/static/v1?label=OS&message=linux&color=important)
+![](https://img.shields.io/static/v1?label=Distro&message=Manjaro&color=success)
+![](https://img.shields.io/static/v1?label=Flavour&message=KDE&color=success)
+![](https://img.shields.io/static/v1?label=Editor&message=VSCode&color=informational)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=highonweb&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
