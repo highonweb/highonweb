@@ -1,7 +1,6 @@
 ### Hi there 👋
 I am Mohana Sundaram S
 #
-![visitors](https://visitor-badge.glitch.me/badge?page_id=highonweb)
 ![](https://img.shields.io/static/v1?label=OS&message=linux&color=important)
 ![](https://img.shields.io/static/v1?label=Distro&message=Arch&color=informational)
 ![](https://img.shields.io/static/v1?label=Editor&message=vim&color=success)
